@@ -1,2 +1,2 @@
 # apnacollage-Demo
-git nad github learning
+git and  github learning
